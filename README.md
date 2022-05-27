@@ -8,6 +8,7 @@ npm install
 
 ## How to Run
 ```
+cd NotesApp
 node app.js
 ```
 
