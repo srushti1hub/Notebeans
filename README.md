@@ -16,6 +16,10 @@ npm install
 ```
 node app.js
 ```
+- To get more information about the tasks that can be performed run
+```
+node app.js --help
+```
 
 ## Author
 - Srushti 
